@@ -6,13 +6,12 @@ class Testgithubapi(unittest.TestCase):
     def testgithub(self):
         self.assertEqual(githubapi('?'), False)
     def testgithub2(self):
-        self.assertEqual(githubapi('Monicaprojects21'), True)
+        self.assertEqual(githubapi('hboinippa'), False)
     def testgithub3(self):
-        self.assertEqual(githubapi('HW04'), False)
+        self.assertEqual(githubapi('SSW567HW-041'), False)
     def testgithub4(self):
         self.assertEqual(githubapi('demo'), False)
-    def testgithub5(self):
-            self.assertEqual(githubapi('00'), True)
+
 
 
 if __name__ == '__main__':

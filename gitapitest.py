@@ -10,7 +10,7 @@ class Testgithubapi(unittest.TestCase):
     def testgithub3(self):
         self.assertEqual(githubapi('SSW567HW-041'), False)
     def testgithub4(self):
-        self.assertEqual(githubapi('demo'), False)
+        self.assertEqual(githubapi('demo'), True)
 
 
 

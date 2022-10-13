@@ -1,5 +1,5 @@
 # SSW567HW04a
-[![hboinippa](https://circleci.com/gh/hboinippa/SSW567HW-041.svg?style=svg)](https://app.circleci.com/pipelines/github/hboinippa/SSW567HW-041?branch=main&filter=all)
+[![hboinippa](https://circleci.com/gh/hboinippa/SSW567HW-041.svg?style=svg)](https://app.circleci.com/pipelines/github/hboinippa/SSW567HW-041?branch=master&filter=all)
 
  Write a description of what you thought about when you were designing the code. What did you think was important to do to make it easy to test the program. What are some of the challenges that you faced when testing this assignmen
  

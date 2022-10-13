@@ -25,7 +25,7 @@ def getCommitnum(userName, repoName):          #  number of commits that are in 
     return Commitnum
         
 
-if __name_ == "_main_":
+if __name__ == "_main_":
     userName = input("Enter Github username: ")     
     userRepos = getUserRepos(userName) 
     print("User: " + userName)
